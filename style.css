@@ -1,0 +1,33 @@
+/* connect(התוכן) padding(ריפוד פנימי) margin (שולים חיצוניים) border (מסגרת) */
+
+
+
+
+
+* {
+    margin: 0;
+}
+
+#header {
+    background-color: black;
+    height: 70px;
+}
+
+#red-email {
+    margin-left: 20%;
+    color: white;
+
+}
+
+#logo-img{
+    margin-left: 30%;
+    content: icon;
+
+}
+
+#sun-img{
+    margin-left: 30%;
+    height: 40px;
+    content: icon;
+
+}
